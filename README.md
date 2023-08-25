@@ -34,7 +34,9 @@ Puedes encontrar más detalles acerca del uso tecnico en <a href="https://github
 
 ## Authors ✒️
 * Jorge Alfredo Jaimes Teherán - Desarrollo - <a href="https://github.com/Jhosgun">Jhosgun</a>
-
+* Nicolás Toledo Parra - 2200017
+* Angélica María Angarita Leal - 2200801
+* Jefferson Gómez - 2201293
 
 ## Contact
 jorge2170083@correo.uis.edu.co
