@@ -1,3 +1,10 @@
 ## Propuesta de Investigación 
 
-En el siguiente enlace se encontrará el documento con la propuesta: https://es.overleaf.com/read/brbsznrvhrhs.
+A continuación se encontrarán los enlaces a los documentos:
+- Documento: https://es.overleaf.com/read/brbsznrvhrhs
+- Presentación:
+
+# Listado de Materiales
+- Láminas metálicas (latón, cobre y otros)
+- Monedas
+- Materiales amortiguadores (espuma)
