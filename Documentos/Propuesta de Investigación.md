@@ -6,5 +6,5 @@ A continuación se encontrarán los enlaces a los documentos:
 
 ## Listado de Materiales
 - Láminas metálicas (latón, cobre y otros)
-- Monedas
+- Monedas (500 cop nueva)
 - Materiales amortiguadores (espuma)
