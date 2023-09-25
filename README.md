@@ -39,7 +39,7 @@ Puedes encontrar más detalles acerca del uso tecnico en <a href="https://github
 * Jefferson Gómez - 2201293
 
 ## Contact
-jorge2170083@correo.uis.edu.co
+jorge2170083@correo.uis.edu.co  
 angelica2200801@correo.uis.edu.co
 
 ## Credits
