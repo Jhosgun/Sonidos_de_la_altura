@@ -40,6 +40,7 @@ Puedes encontrar más detalles acerca del uso tecnico en <a href="https://github
 
 ## Contact
 jorge2170083@correo.uis.edu.co
+angelica2200801@correo.uis.edu.co
 
 ## Credits
 Un agradecimiento especial a la Universidad Industrial de Santnader y al departamento de física, gracias a ellos ha sido posible la realización de este trabajo.
