@@ -14,4 +14,5 @@ A continuación se encontrarán los enlaces a los documentos:
   - 1000 cop nueva
 - Materiales Amortiguadores
   - Espuma de Polietileno 5mx0.5m
+  - Plástico Burbuja 1mx5m
 
