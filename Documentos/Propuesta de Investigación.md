@@ -13,4 +13,5 @@ A continuación se encontrarán los enlaces a los documentos:
   - 500 cop nueva
   - 1000 cop nueva
 - Materiales Amortiguadores
-  - Espuma
+  - Espuma de Polietileno 5mx0.5m
+
