@@ -7,7 +7,7 @@ A continuación se encontrarán los enlaces a los documentos:
 ## Listado de Materiales
 | Cantidad | Material               | 
 |----------|------------------------|
-|     1    | Lámina Latón           | 
+|     1     Lámina Latón           | 
 |     1    | Lámina Cobre           | 
 |     1    | Lámina Zinc            |
 |     1    | Moneda 500 cop nueva   |
