@@ -6,7 +6,7 @@ A continuación se encontrarán los enlaces a los documentos:
 
 ## Listado de Materiales
 - Láminas Metálicas
-  - Latón 30x100 cm
+  - Latón 0.3mx1m
   - Cobre
   - Zinc
 - Monedas
