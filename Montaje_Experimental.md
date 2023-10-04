@@ -1,3 +1,3 @@
 # Montaje experimental
 
-El montaje experimental estará sujeto a una bola de una masa m y una limina de area A² 
+Se tiene una moneda con un área determinada que se lanza desde una altura a determinar y al caer choca contra una lámina metálica que produce un sonido. Este sonido va a ser analizado por medio de un método ya mencionado. 
