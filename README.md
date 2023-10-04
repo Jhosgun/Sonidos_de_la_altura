@@ -6,7 +6,9 @@
  |____/ \___/|_| |_|_|\__,_|\___/|___/  \__,_|\___| |_|\__,_|  \__,_|_|\__|\__,_|_|  \__,_|
                                                                                                                                                           
 ```
-El reto selecionado fue el número 16 de la materia <a href= "https://github.com/nunezluis/MisCursos/blob/main/RetosFisica23B/RetosFisica23B.md">retos cientificos</a> 
+El reto selecionado fue el número 16 de la materia <a href= "https://github.com/nunezluis/MisCursos/blob/main/RetosFisica23B/RetosFisica23B.md">retos cientificos</a>
+que busca responder la pregunta:
+
 *¿A partir del sonido generado por tuercas que se dejan caer sobre una lámina metálica se puede estimar la altura desde la que se lanzan?* Desarrolle la respuesta
 
 
