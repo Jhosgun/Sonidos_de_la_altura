@@ -6,4 +6,4 @@ En este apartado se adjuntan los enlaces correspondientes a las presentaciones d
 - [Avance 2 (13 nov)](https://correouisedu-my.sharepoint.com/:p:/g/personal/angelica2200801_correo_uis_edu_co/EQJwqrD7U2dNtGg7uN_rom8Bd2iCzinvQeRN9gx-Ib8SoA?e=mfVONQ)
 
 
-*NOTA: Recuerda que para visualizar el todo el contenido de la presentación debe darle en presentar, ya que la versión web de PowerPoint no deja visualizar en preliminar las ecuaciones.*
+*NOTA: Recuerda que para visualizar el todo el contenido de las diapositivas debe darle en presentar, ya que la versión web de PowerPoint no deja visualizar en preliminar las ecuaciones.*
